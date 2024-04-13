@@ -31,6 +31,8 @@ public class Runner {
 		
 		System.out.println("Tear Down");
 		
+		System.out.println("Third Commit");
+		
 		
 	}
 	
